@@ -1,0 +1,17 @@
+.nav{
+    background-color: rgb(59, 59, 248);
+}
+#navbarScrollingDropdown{
+    color: white;
+}
+#name{
+    color: white;
+}
+.icons{
+    font-size: 20px;
+    color: white;
+}
+.d-flex{
+    margin-left: 5%;
+    width: 30%;
+}
